@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/elipaulsen/Documents/C++/CIE/cie/projects/spring2022/eplsn/homework/hw5
+-- Found SFML 2.5.1 in /usr/local/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/elipaulsen/Documents/C++/CIE/cie/projects/spring2022/eplsn/homework/hw5/cmake-build-debug
