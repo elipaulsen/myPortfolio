@@ -1,11 +1,4 @@
-# CS1210: HW3 version 1
-######################################################################
-# Complete the signed() function, certifying that:
-#  1) the code below is entirely your own work, and
-#  2) it has not been shared with anyone outside the intructional team.
-#
-def signed():
-    return(["eplsn"])
+
 
 ######################################################################
 # In this homework, you will build the internals for Boggle, a popular
