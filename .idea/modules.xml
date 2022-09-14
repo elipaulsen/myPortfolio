@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice/H2 Database Practice/H2 Database Practice.iml" filepath="$PROJECT_DIR$/Practice/H2 Database Practice/H2 Database Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/HashCode Practice/HashCode Practice.iml" filepath="$PROJECT_DIR$/Practice/HashCode Practice/HashCode Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myPortfolio.iml" filepath="$PROJECT_DIR$/.idea/myPortfolio.iml" />
+    </modules>
+  </component>
+</project>
