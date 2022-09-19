@@ -1,4 +1,3 @@
-
 public class Password {
     String Value;
     int Length;
@@ -15,7 +14,7 @@ public class Password {
         if ((int) C >= 65 && (int) C <= 90)
             val = 1;
 
-        // Char is Lowercase Letter
+            // Char is Lowercase Letter
         else if ((int) C >= 97 && (int) C <= 122) {
             val = 2;
         }
