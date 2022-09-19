@@ -14,78 +14,11 @@ using namespace std;
 
 int main() {
 
-    //MILESTONE 1 Unit Test Cases
-    Wordle milestone1a("hotdog.csv");
-    milestone1a.loadWordList();             //attempts to load hotdog.csv
-    cout << milestone1a.getFile() << endl;
-    milestone1a.printWordList();
-
-    Wordle milestone1b("wordList.txt");     //loads real word file
-    milestone1b.loadWordList();
-    //milestone1b.printWordList();
-
-
-
-    //MILESTONE 2 Unit Test Cases
-    Wordle milestone2("wordList.txt");               //make wordle object with wordlist.txt as filename
-    milestone2.loadWordList();                           //loads and reads wordList.txt
-    milestone2.setRandomSecretWord();                    //sets a random word as the secret word
-    cout << milestone2.getSecretWord() << endl;          //prints out secret word
-    milestone2.setSecretWord("heart");               //sets word as a word that is in wordList.txt
-    milestone2.setSecretWord("jaguar");             //sets word as a word not in wordList.txt
-    cout << endl << milestone2.getSecretWord() << endl;           //prints out secret word
-
-
-
-    //MILESTONE 3 Unit Test Cases
-    Wordle milstone3("wordList.txt");
-    milstone3.loadWordList();                       //loads wordList.txt
-    milstone3.setSecretWord("sandwich");    //secret word cant be set to sandwich
-    milstone3.setSecretWord("darts");       //secret word is darts
-    cout << "Setting secret word to \"darts\". The secret word is " << milstone3.getSecretWord() << ".\n" << endl;
-    milstone3.makeGuess("blue");        //guess does not count cause it was invalid
-    milstone3.makeGuess("merry");
-    milstone3.print();
-    milstone3.makeGuess("rapid");
-    milstone3.makeGuess("token");
-    milstone3.makeGuess("other");
-    milstone3.makeGuess("guard");
-    milstone3.print();
-    milstone3.makeGuess("darts");           //guessed secret word
-    milstone3.print();
-    cout << endl;
-
-
-
-
-    //Milestone 5 Unit test cases
-    Wordle milestone5("wordList.txt");
-    milestone5.loadWordList();
-    milestone5.setSecretWord("valid");      //secret word is valid
-    milestone5.makeGuess("crest");          //.....
-    milestone5.makeGuess("lavas");          //+!+..
-    milestone5.makeGuess("valid");          //guessed correct word
-    milestone5.print();
-    cout << endl;
-
-    //Milestone 6 Unit test cases
-    Wordle milestone6("wordList.txt");
-    milestone6.loadWordList();
-    milestone6.setSecretWord("salet");
-    milestone6.makeGuess("choir");
-    milestone6.printAvailableLetters();
-    milestone6.makeGuess("munch");
-    milestone6.printAvailableLetters();
-    cout << endl;
-
-
-
-    //Wordle Game / Milestone 4
+    
     Wordle game("wordList.txt");
     game.loadWordList();          //loads in wordList.txt
-    //game.setRandomSecretWord();      // sets random word
-    game.setSecretWord("crazy");          //secret word is crazy
-
+    game.setRandomSecretWord();      // sets random word
+   
     //game intro / Instructions
     cout << "Welcome to Wordle" << "\nYou have six tries to guess a five-letter english word." << endl
          << "press enter to submit your guess" << endl
