@@ -1,0 +1,53 @@
+AK,Alaska Airlines Inc.
+AL,Delta Air Lines Inc.
+AR,Southwest Airlines Co.
+AZ,America West Airlines Inc.
+CA,United Air Lines Inc.
+CO,United Air Lines Inc.
+CT,US Airways Inc.
+DE,Evergreen International Inc.
+FL,US Airways Inc.
+GA,Delta Air Lines Inc.
+HI,Aloha Airlines Inc.
+IA,United Air Lines Inc.
+ID,Horizon Air
+IL,United Air Lines Inc.
+IN,US Airways Inc.
+KS,Continental Air Lines Inc.
+KY,Delta Air Lines Inc.
+LA,Delta Air Lines Inc.
+MA,US Airways Inc.
+MD,US Airways Inc.
+ME,Delta Air Lines Inc.
+MI,Northwest Airlines Inc.
+MN,Northwest Airlines Inc.
+MO,Trans World Airways LLC
+MS,Delta Air Lines Inc.
+MT,Horizon Air
+NC,US Airways Inc.
+ND,Northwest Airlines Inc.
+NE,United Air Lines Inc.
+NH,United Air Lines Inc.
+NJ,Continental Air Lines Inc.
+NM,Southwest Airlines Co.
+NV,America West Airlines Inc.
+NY,US Airways Inc.
+OH,US Airways Inc.
+OK,Southwest Airlines Co.
+OR,Horizon Air
+PA,US Airways Inc.
+PR,American Airlines Inc.
+RI,US Airways Inc.
+SC,US Airways Inc.
+SD,United Air Lines Inc.
+TN,Northwest Airlines Inc.
+TT,Continental Air Lines Inc.
+TX,Southwest Airlines Co.
+UT,Delta Air Lines Inc.
+VA,US Airways Inc.
+VI,American Airlines Inc.
+VT,US Airways Inc.
+WA,Horizon Air
+WI,Northwest Airlines Inc.
+WV,US Airways Inc.
+WY,Delta Air Lines Inc.

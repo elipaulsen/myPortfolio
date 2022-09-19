@@ -1,0 +1,53 @@
+AK,Ryan Air f/k/a Arctic Transportation
+AL,Southwest Airlines Co.
+AR,Southwest Airlines Co.
+AZ,Southwest Airlines Co.
+CA,Southwest Airlines Co.
+CO,SkyWest Airlines Inc.
+CT,Southwest Airlines Co.
+DE,Western Global
+FL,Southwest Airlines Co.
+GA,Delta Air Lines Inc.
+HI,Hawaiian Airlines Inc.
+IA,Allegiant Air
+ID,SkyWest Airlines Inc.
+IL,SkyWest Airlines Inc.
+IN,Federal Express Corporation
+KS,Southwest Airlines Co.
+KY,United Parcel Service
+LA,Southwest Airlines Co.
+MA,JetBlue Airways
+MD,Southwest Airlines Co.
+ME,Southwest Airlines Co.
+MI,SkyWest Airlines Inc.
+MN,SkyWest Airlines Inc.
+MO,Southwest Airlines Co.
+MS,Sun Country Airlines d/b/a MN Airlines
+MT,SkyWest Airlines Inc.
+NC,PSA Airlines Inc.
+ND,Federal Express Corporation
+NE,Southwest Airlines Co.
+NH,Southwest Airlines Co.
+NJ,United Air Lines Inc.
+NM,Southwest Airlines Co.
+NV,Southwest Airlines Co.
+NY,Southwest Airlines Co.
+OH,Southwest Airlines Co.
+OK,Southwest Airlines Co.
+OR,Federal Express Corporation
+PA,Southwest Airlines Co.
+PR,Southwest Airlines Co.
+RI,Southwest Airlines Co.
+SC,Southwest Airlines Co.
+SD,SkyWest Airlines Inc.
+TN,Federal Express Corporation
+TT,Star Marianas Air Inc.
+TX,Southwest Airlines Co.
+UT,SkyWest Airlines Inc.
+VA,Southwest Airlines Co.
+VI,American Airlines Inc.
+VT,Federal Express Corporation
+WA,Alaska Airlines Inc.
+WI,Southwest Airlines Co.
+WV,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+WY,SkyWest Airlines Inc.

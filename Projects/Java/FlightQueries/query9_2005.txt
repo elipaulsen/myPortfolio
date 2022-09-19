@@ -1,0 +1,53 @@
+AK,Hageland Aviation Service
+AL,Southwest Airlines Co.
+AR,Southwest Airlines Co.
+AZ,Southwest Airlines Co.
+CA,Southwest Airlines Co.
+CO,United Air Lines Inc.
+CT,Southwest Airlines Co.
+DE,Polar Air Cargo Airways
+FL,Southwest Airlines Co.
+GA,Delta Air Lines Inc.
+HI,Aloha Airlines Inc.
+IA,Endeavor Air Inc.
+ID,Horizon Air
+IL,United Air Lines Inc.
+IN,Federal Express Corporation
+KS,Endeavor Air Inc.
+KY,Comair Inc.
+LA,ExpressJet Airlines Inc.
+MA,US Airways Inc.
+MD,Southwest Airlines Co.
+ME,Colgan Air
+MI,Northwest Airlines Inc.
+MN,Northwest Airlines Inc.
+MO,Southwest Airlines Co.
+MS,Southwest Airlines Co.
+MT,Big Sky Airlines Inc.
+NC,US Airways Inc.
+ND,Northwest Airlines Inc.
+NE,Southwest Airlines Co.
+NH,Southwest Airlines Co.
+NJ,ExpressJet Airlines Inc.
+NM,Southwest Airlines Co.
+NV,Southwest Airlines Co.
+NY,US Airways Inc.
+OH,ABX Air Inc
+OK,Southwest Airlines Co.
+OR,Horizon Air
+PA,US Airways Inc.
+PR,American Airlines Inc.
+RI,Southwest Airlines Co.
+SC,Mesa Airlines Inc.
+SD,Northwest Airlines Inc.
+TN,Federal Express Corporation
+TT,Freedom Air
+TX,Southwest Airlines Co.
+UT,SkyWest Airlines Inc.
+VA,US Airways Inc.
+VI,American Airlines Inc.
+VT,ExpressJet Airlines Inc.
+WA,Alaska Airlines Inc.
+WI,Northwest Airlines Inc.
+WV,Federal Express Corporation
+WY,Federal Express Corporation
